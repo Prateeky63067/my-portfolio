@@ -30,7 +30,7 @@ const Projects = () => {
             projectName='Portfolio'
             AboutProject='it is created using Html CSS and JavaScript and Reactjs.'
             imagesrc={portfolio}
-            link="https://prateeky63067.github.io/"
+            link="https://superlative-pudding-bbc56a.netlify.app/"
           />
          
         </div>
