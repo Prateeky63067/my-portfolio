@@ -1,6 +1,7 @@
 import React from "react";
 import logo from '../images/logo.png'
 import { NavLink } from "react-router-dom";
+import resume from "./resume.pdf";
 const Navbar = () => {
   return (
     <>
@@ -65,6 +66,17 @@ const Navbar = () => {
                   Work
                 </NavLink>
               </li> */}
+              <li className="nav-item">
+                <a
+                  activeClassName="menu-active"
+                  className="nav-link"
+                  href={resume}
+                  target="_self"
+                  download="resume1"
+                >
+                  Resume
+                </a>
+              </li>
               <li className="nav-item">
                 <NavLink
                   activeClassName="menu-active"
