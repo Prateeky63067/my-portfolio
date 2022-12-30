@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.1a2ec12f.css",
-    "main.js": "/my-portfolio/static/js/main.b970e4d2.js",
+    "main.js": "/my-portfolio/static/js/main.a4fa5109.js",
     "static/media/landingPage.png": "/my-portfolio/static/media/landingPage.7d5a5e6cf455d425f921.png",
     "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.b7fd37afd689138eb13a.png",
     "static/media/myImage.png": "/my-portfolio/static/media/myImage.ea0658cb05717db913c8.png",
     "static/media/weather.jpg": "/my-portfolio/static/media/weather.2c61d15cc74342dc81fa.jpg",
     "static/media/yadavPrateek.jpg": "/my-portfolio/static/media/yadavPrateek.bdde7cf9fd7942b3ef4f.jpg",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.73c77636de7a4a9c930f.pdf",
     "static/media/logo.png": "/my-portfolio/static/media/logo.e7d5148ac686bd65a1fc.png",
     "static/media/raleway-latin-700italic.woff": "/my-portfolio/static/media/raleway-latin-700italic.744e43f35d44a20783d1.woff",
     "static/media/raleway-latin-800italic.woff": "/my-portfolio/static/media/raleway-latin-800italic.18fd02483646c7a5d9c5.woff",
@@ -46,10 +47,10 @@
     "static/media/raleway-latin-100.woff2": "/my-portfolio/static/media/raleway-latin-100.16d7dcebbcc7dee6b7c8.woff2",
     "index.html": "/my-portfolio/index.html",
     "main.1a2ec12f.css.map": "/my-portfolio/static/css/main.1a2ec12f.css.map",
-    "main.b970e4d2.js.map": "/my-portfolio/static/js/main.b970e4d2.js.map"
+    "main.a4fa5109.js.map": "/my-portfolio/static/js/main.a4fa5109.js.map"
   },
   "entrypoints": [
     "static/css/main.1a2ec12f.css",
-    "static/js/main.b970e4d2.js"
+    "static/js/main.a4fa5109.js"
   ]
 }
