@@ -292,7 +292,7 @@ margin-right:25px !important;
 			border: none;
 			/* background: rgb(199, 119, 119); */
       background-color: #262f38;
-			color: #444649;
+			color: #e31b6d;
 			font-weight: bold;
 			cursor: pointer;
 			transition: 0.4s ease;
@@ -362,6 +362,7 @@ margin-right:25px !important;
     }
       .navbar-toggler-icon{
         background-color: white !important;
+        
       }
       .aboutbottom {
         flex-direction: column;
@@ -440,6 +441,10 @@ margin-right:25px !important;
    }
    .view {
     text-align: left;
+}
+.outer {
+  width: 82vw;
+  box-sizing: border-box;
 }
 
   }
